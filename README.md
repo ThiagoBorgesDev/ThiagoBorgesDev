@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou o Thiago Borges
+# 👋 Oi, tudo bem? Me chamo Thiago.
 
-Analista de Operações focado em **Análise de Dados** e **Inteligência Operacional** no setor de Telecomunicações. 
+Atualmente trabalho como Analista de Operações focado em **Análise de Dados** e **Inteligência Operacional** no setor de Telecomunicações. 
 Utilizo dados para otimizar processos, acompanhar KPIs e gerar insights estratégicos para grandes contas (como Vivo, Claro e Vtal).
 
 ---
