@@ -1,45 +1,48 @@
-# 👋 Oi, tudo bem? Me chamo Thiago.
+# 👋 Hi, I'm Thiago!
 
-Atualmente trabalho como Analista de Operações focado em **Análise de Dados** e **Inteligência Operacional** no setor de Telecomunicações. 
-Utilizo dados para otimizar processos, acompanhar KPIs e gerar insights estratégicos para grandes contas (como Vivo, Claro e Vtal).
-
----
-
-## 🎯 Objetivo & Visão de Carreira
-* **Foco Atual:** Aprimoramento diário contínuo em **Python** e **SQL Avançado** para elevar o nível das análises operacionais e automações no trabalho.
-* **Próximo Passo:** Graduação em Análise e Desenvolvimento de Sistemas (Anhanguera) e futura **Pós-Graduação em Engenharia de Dados**.
+I am currently working as an **Operations & Data Analyst** focused on Operational Intelligence within the Telecommunications sector. I leverage data to optimize complex workflows, monitor key performance metrics, and deliver strategic insights for enterprise accounts such as Vivo, Claro, and Vtal.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+### 🎯 Career Goals & Vision
 
-### 🚀 Em Estudo Diário e Aplicação Prática:
-* **Linguagens & Consultas:** Python, SQL (MySQL, Oracle DB)
-* **Business Intelligence:** Power BI (Avançado), Google Looker Studio, Excel / Google Sheets
-* **Ferramentas & Versionamento:** Git, GitHub, VS Code
-* **IA Aplicada & Produtividade:** Gemini, Claude, NotebookLM, Google AI Studio
+* **Current Focus:** Daily hands-on practice with **Python** and **Advanced SQL** to elevate operational analytics, ETL processes, and workflow automation.
+* **Academic Roadmap:** Pursuing a Bachelor's degree in Systems Analysis and Development (ADS) with plans for a future Postgraduate specialization in Data Engineering.
 
 ---
 
-## 📊 Principais Competências
-- Análise de Dados & Métricas de Negócio (KPIs)
-- Automação de Rotinas e Tratamento de Dados
-- Construção de Dashboards Interativos
-- Gestão e Controle de Produção Operacional
-- Comunicação com Liderança e Suporte à Tomada de Decisão
+### 🛠️ Tech Stack & Tools
+
+**🚀 Daily Practice & Hands-on Application:**
+
+* **Languages & Database Querying:** Python, SQL (MySQL, Oracle DB)
+* **Business Intelligence & Visualization:** Power BI (Advanced), Google Looker Studio, Advanced Excel, Google Sheets
+* **Developer Tools & Version Control:** Git, GitHub, VS Code
+* **Applied AI & Productivity:** Gemini, Claude, NotebookLM, Google AI Studio
 
 ---
 
-## 🎓 Formação & Certificações
-- **Graduação:** Análise e Desenvolvimento de Sistemas (ADS) — Faculdade Anhanguera
-- **Cursos & Especializações:**
-  - SQL Avançado — Udemy (Em andamento)
-  - Certificado Profissional de Análise de Dados — Google
-  - Certificado Profissional de Inteligência Artificial — Google
+### 📊 Core Competencies
+
+* Data Analysis & Business Metrics (KPIs)
+* Workflow Automation & Data Preprocessing
+* Interactive Dashboard Development
+* Operations & Production Control
+* Executive Stakeholder Communication & Data-Driven Decision Support
 
 ---
 
-## 📫 Vamos nos conectar?
+### 🎓 Education & Certifications
 
-- 💼 **LinkedIn:** [thiago-brgs](https://www.linkedin.com/in/thiago-brgs/)
-- 📧 **E-mail:** [thiagoborges98055@gmail.com](mailto:thiagoborges98055@gmail.com)
+* **Bachelor's Degree:** Systems Analysis and Development (ADS) — Anhanguera University
+* **Specializations & Certifications:**
+  * Advanced SQL — Udemy *(In progress)*
+  * Google Data Analytics Professional Certificate — Google
+  * Google Professional AI Certificate — Google
+
+---
+
+### 📫 Let's Connect!
+
+* 💼 **LinkedIn:** [thiago-brgs](https://www.linkedin.com/in/thiago-brgs)
+* 📧 **Email:** [thiagoborges98055@gmail.com](mailto:thiagoborges98055@gmail.com)
